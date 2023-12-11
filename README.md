@@ -1,4 +1,4 @@
-![alt text](https://github.com/ArkAow/ArkAow/blob/main/ImgLastmanProfileBanner.jpg?raw=true)
+![Image from LastMan a french anime/comic](https://github.com/ArkAow/ArkAow/blob/main/ImgLastmanProfileBanner.jpg?raw=true)
 
 ## About me
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=ArkAow&theme=algolia&show_icons=true) 
