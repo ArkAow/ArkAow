@@ -1,7 +1,8 @@
 ![alt text](https://github.com/ArkAow/ArkAow/blob/main/ImgLastmanProfileBanner.jpg?raw=true)
 
 ## About me
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ArkAow&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ArkAow&theme=algolia&show_icons=true) 
+
 Hi, I am Tom, a developer passionate about creating games.
 ## I already got my hands on
   - Java
