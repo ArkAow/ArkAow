@@ -14,10 +14,10 @@ Hi, I am Tom, a developer passionate about creating games.
   - Rust
 
 ## Tools I use
-  - ![IntelliJ IDEA](lien_vers_icone_intellij_idea) IntelliJ IDEA
-  - ![Eclipse IDE](lien_vers_icone_eclipse) Eclipse IDE
-  - ![Unity](lien_vers_icone_unity) Unity
-  - ![Visual Studio Code](lien_vers_icone_vscode) Visual Studio Code
-  - ![Visual Studio Community](lien_vers_icone_vscommunity) Visual Studio Community
-  - ![GitLab](lien_vers_icone_gitlab) GitLab
-  - ![Godot](lien_vers_icone_godot) Godot
+  - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="18"> IntelliJ IDEA
+  - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="18"> Eclipse IDE
+  - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="18"> Unity
+  - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="18"> Visual Studio Code
+  - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="18"> Visual Studio Community
+  - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="18"> GitLab
+  - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" width="18"> Godot
