@@ -1,6 +1,6 @@
 ![Background Image from Lastman](https://github.com/ArkAow/ArkAow/blob/main/ImgLastmanProfileBanner.jpg?raw=true)
 
-### About me
+ <p style="text-align: center;">### About me</p>
 Hi, I am Tom Charpentier.  
 I love to create and design.
 
