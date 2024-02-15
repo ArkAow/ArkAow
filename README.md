@@ -2,7 +2,7 @@
 
 ### About me
 Hi, I am Tom Charpentier.  
-I love to create and designe.
+I love to create and design.
 
 ### I already got my hands on
 Here is the programmation languages I've already used !  
