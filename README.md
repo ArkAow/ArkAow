@@ -9,6 +9,7 @@ But what I prefer is the creation / modding of video games. Here are some projec
 
 - [Escape Game](https://github.com/ArkAow/SAE-EscapeGame)
 - [YourOnlyMoveIsHustle mod](https://github.com/ArkAow/YomiHustle-Mod-Shirohige)
+- - [YourOnlyMoveIsHustle mod](https://github.com/ArkAow/Pokemon-Allegiance-Repo)
 
 
 ## I already got my hands on
