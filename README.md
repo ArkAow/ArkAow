@@ -2,7 +2,7 @@
 
 # About me
 Hi, I am Tom Charpentier.  
-I am a second year computer science student at the IUT of Limoges.  
+I am a second year computer science student at the _IUT du Limousin_.  
   
 I have already been able to practice in different fields such as mobile and web development, database management and many others. 
 But what I prefer is the creation / modding of video games. Here are some projects I have been working on:
