@@ -7,9 +7,9 @@ I am a second year computer science student at the IUT of Limoges.
 I have already been able to practice in different fields such as mobile and web development, database management and many others. 
 But what I prefer is the creation / modding of video games. Here are some projects I have been working on:
 
-- [Escape Game](https://github.com/ArkAow/SAE-EscapeGame)
-- [YourOnlyMoveIsHustle mod](https://github.com/ArkAow/YomiHustle-Mod-Shirohige)
-- - [YourOnlyMoveIsHustle mod](https://github.com/ArkAow/Pokemon-Allegiance-Repo)
+- [A school project](https://github.com/ArkAow/SAE-EscapeGame)
+- [A mod made for a game I like](https://github.com/ArkAow/YomiHustle-Mod-Shirohige)
+- [A game made from scratch on Godot](https://github.com/ArkAow/Pokemon-Allegiance-Repo)
 
 
 ## I already got my hands on
