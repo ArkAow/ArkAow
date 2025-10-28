@@ -25,8 +25,12 @@ I may not master them all but I got some basics.
 ## My Experiences
 ### Biotonix
 In april 2024 I did a 10 week internship at Biotonix (Sorel-Tracy, Québec) as a fullstack developer *junior* (Angular, Dotnet).  
-More info on Biotonix at https://biotonix.com/
+https://biotonix.com/
+
+### WebProCoder
+16 weeks internship at WebProCoder (Limoges, France) as web developper (Wordpress, Shopify). 
+https://webprocoder.com/
 
 ## Contacts
 [My LinkedIn](https://www.linkedin.com/in/tom-charpentier-b53ab725b/) <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="30">  
-tom.charpentier@etu.unlim.fr <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="30">  
+tom.charpentier@etu.univ-poitier.fr <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="30">  
