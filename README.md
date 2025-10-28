@@ -28,7 +28,7 @@ In april 2024 I did a 10 week internship at Biotonix (Sorel-Tracy, Québec) as a
 https://biotonix.com/
 
 ### WebProCoder
-16 weeks internship at WebProCoder (Limoges, France) as web developper (Wordpress, Shopify). 
+16 weeks internship at WebProCoder (Limoges, France) as web developper (Wordpress, Shopify).  
 https://webprocoder.com/
 
 ## Contacts
